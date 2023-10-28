@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="width: 100px; height: 100px; border: 1px soild">
+<div style="color: #AAAAAA">
   start
 </div>
 
