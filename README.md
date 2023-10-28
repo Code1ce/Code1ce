@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div style="color: #AAAAAA">
-  start
-</div>
-
 <!--
 **Code1ce/Code1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
