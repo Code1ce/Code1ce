@@ -1,8 +1,7 @@
 <!-- ![Code1ce's github stats](https://github-readme-stats.vercel.app/api?username=Code1ce&theme=radical) -->
 
-<!-- <!DOCTYPE html>
 <html>
-    <head>
+    <!-- <head>
         <style>
         .test {
             font-size: 20px;
@@ -37,7 +36,7 @@
         <hr style='height: 1px'>
         <p>🎯That's it!</p>
     </body>
-<!-- </html> -->
+</html>
 
 
 <!--
