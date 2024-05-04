@@ -1,5 +1,6 @@
-![Code1ce's github stats](https://github-readme-stats.vercel.app/api?username=Code1ce&theme=radical)
+<!-- ![Code1ce's github stats](https://github-readme-stats.vercel.app/api?username=Code1ce&theme=radical) -->
 
+<!-- <!DOCTYPE html>
 <html>
     <head>
         <style>
@@ -13,7 +14,7 @@
             font-size: 30px;
         }
         </style>
-    </head>
+    </head> -->
     <body>
         <h1>Welcome to CodeIce's Profile!</h1>
         <div style='display: flex; justify-content: center; gap: 5px; margin: 0 0 30px;'>
@@ -36,7 +37,7 @@
         <hr style='height: 1px'>
         <p>🎯That's it!</p>
     </body>
-</html>
+<!-- </html> -->
 
 
 <!--
