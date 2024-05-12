@@ -6,7 +6,7 @@
 
 I'm a high school student now. Mostly I write **Java**, sometimes **Python**.<br><br>
 Since I tried using Swift in 2018, I have learned **Python, C++, Java** and so on. I made an interesting project with Java in 2022 which simulated the **Enigma Machine**, used for encryption by German Army during World War II, and finally decrypted by **Alan Turing**.<br><br>
-I'm trying to remake my Enigma Simulator. Also I'm buliding a **personal blog** by **Springboot** and **Vue.js** now, which will be completed soon. It's my first big personal project. Let's wait and see!
+I'm trying to remake my Enigma Simulator. Also I'm buliding a **personal blog** by **Springboot** and **Vue.js** now, which will be completed soon. It's my first big personal project. Let's wait and see!<br><br>
 Besides coding, I enjoy **designing UI, taking photos** and **sketching**. Also I'm a **railway enthusiast**.<br><br>
 You can follow my <a href='https://space.bilibili.com/484018045'>**bilibili**</a> for more information, or send <a href='mailto:shenyunjie2008@outlook.com'>**e-mail**</a> to me.
 
